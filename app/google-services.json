@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "895575704553",
+    "firebase_url": "https://blackbox-money-system.firebaseio.com",
+    "project_id": "blackbox-money-system",
+    "storage_bucket": "blackbox-money-system.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:895575704553:android:033e35788151bbd4",
+        "android_client_info": {
+          "package_name": "com.example.blackboxmoney"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "895575704553-t84usootg1cs54ece76k26jag77j83pm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.blackboxmoney",
+            "certificate_hash": "99dea683cc6be33a00c7b66d2cb2b5d4b5950f48"
+          }
+        },
+        {
+          "client_id": "895575704553-ir576jb0562o04e79fruh6nsurlv8lis.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDan3m60bGI0--3fsR9yROJ-fGIS-0uY4g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "895575704553-ir576jb0562o04e79fruh6nsurlv8lis.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
