@@ -188,6 +188,7 @@ exports.addMessage = functions.https.onCall((data, context) => {
     );
 });
 
+//Это то, что берёт из базы данных и отправляет клиенту
 exports.returnVersion = functions.https.onCall((data, context) => {
     const myDB = admin.database();
     var trans = 1;

@@ -189,7 +189,7 @@ public class MainPage extends AppCompatActivity {
             }
         });
     }
-
+    //Это то, что возвращает значение (task.getResult() - значение)
     private void getV() {
         Task<Double> a = getVersion();
 
@@ -252,7 +252,7 @@ public class MainPage extends AppCompatActivity {
             startActivity(new Intent(this, MainActivity.class));
         }
     }
-
+    //Это то, что получает значение
     private Task<Double> getVersion() {
         return mFunctions
                 .getHttpsCallable("returnVersion")
